@@ -1,2 +1,2 @@
 # oderlist-program
-ol_list tag cod in html
+ol_list tag code in html
